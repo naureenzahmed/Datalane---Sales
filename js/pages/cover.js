@@ -31,7 +31,7 @@ function buildManifest(data) {
       subsections: data.docs.map((s) => ({ id: s.id, label: s.title })),
     },
     {
-      key: 'territoryManagement', label: 'Territory Management',
+      key: 'territoryManagement', label: 'Prospects Management',
       subsections: data.territoryManagement.map((s) => ({ id: s.id, label: s.title })),
     },
     {

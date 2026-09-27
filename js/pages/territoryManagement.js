@@ -8,7 +8,7 @@ export function renderTerritoryManagement(container) {
 
   container.innerHTML = `
     ${notesBoxHtml('territoryManagement')}
-    <div class="page-title">Territory Management</div>
+    <div class="page-title">Prospects Management</div>
     <div id="territory-sections" class="stack-16"></div>
   `;
 

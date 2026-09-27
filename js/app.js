@@ -10,7 +10,7 @@ import { renderGtmExperiments } from './pages/gtmExperiments.js';
 const PAGES = {
   home: { label: 'Home', render: renderCover },
   documentation: { label: 'Documentation', render: renderDocumentation },
-  territoryManagement: { label: 'Territory Management', render: renderTerritoryManagement },
+  territoryManagement: { label: 'Prospects Management', render: renderTerritoryManagement },
   inboundLeads: { label: 'Leads Management', render: renderInboundLeads },
   paidConversions: { label: 'Outbound', render: renderPaidConversions },
   gtmExperiments: { label: 'GTM Experiments', render: renderGtmExperiments },
